@@ -1,5 +1,3 @@
-• AI dev, ML Research.
-
-• building [Anymind](anyllm.vercel.app)
-
+• mostly into AI Research.
 • Won 14x hackathons.
+
